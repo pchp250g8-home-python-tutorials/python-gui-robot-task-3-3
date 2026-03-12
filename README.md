@@ -1,6 +1,6 @@
 RobotTask-3-3. Python Tutorials. Actor Robot. StepInDev Platform. GUI Application. 
-The robot's field in the 1-st environment is 5 cells long and 5 cells wide.
-The robot's field in the 2-nd environment is 6 cells long and 6 cells wide.
+The robot's field in the 1-st environment is 6 cells long and 1 cells wide.
+The robot's field in the 2-nd environment is 7 cells long and 1 cells wide.
 It has blue walls around the perimeter. 
 The robot's starting position is marked with a blue square. 
 The robot's final position is marked with a red house. 
@@ -11,8 +11,8 @@ The solution of the task is located in the file "Task-3-3.py".
 
 
 RobotTask-3-3. Занятия по Python. Исполнитель Робот. Платформа StepInDev. Приложение с графическим интерфейсом пользователя.
-Поле робота в первой обстановке имеет размеры: длина 5 клеток, ширина 5 клеток. 
-Поле робота во второй обстановке имеет размеры: длина 6 клеток, ширина 6 клеток. 
+Поле робота в первой обстановке имеет размеры: длина 6 клеток, ширина 1 клетку. 
+Поле робота во второй обстановке имеет размеры: длина 7 клеток, ширина 1 клетку. 
 Оно имеет синие стены по периметру. 
 Синим квадратом помечено начальное положение робота. Конечное положение робота помечено красным домиком. 
 Требуется переместить исполнителя из начального положения в конечное. 
