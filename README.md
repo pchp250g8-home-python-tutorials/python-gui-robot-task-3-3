@@ -1,4 +1,4 @@
-RobotTask-3-3. Python Tutorials. Actor Robot. StepInDev Platform. GUI Application. 
+RobotTask-3-3. Python Tutorials. Actor Robot. StepInDev Platform. GUI Application.
 The robot's field in the 1-st environment is 6 cells long and 1 cells wide.
 The robot's field in the 2-nd environment is 7 cells long and 1 cells wide.
 It has blue walls around the perimeter. 
